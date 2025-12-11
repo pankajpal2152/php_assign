@@ -124,3 +124,16 @@ _modules/*
 
 /results/
 /phpunit*.xml
+
+
+/vendor/
+/node_modules/
+/.env
+/.env
+/public/uploads/*
+/writable/cache/*
+/writable/session/*
+/writable/debugbar/*
+.idea
+.vscode
+.DS_Store
